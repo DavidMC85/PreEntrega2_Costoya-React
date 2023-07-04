@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+
+.logo {
+  max-height: 150px;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #f71111cf);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #fb6161c2);
+}
+
+body {
+  background-color: rgb(152, 152, 152);
+}

@@ -1,0 +1,9 @@
+.contenedorProductos {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: wheat;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: 6px double black;
+}

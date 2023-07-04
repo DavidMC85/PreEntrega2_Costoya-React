@@ -1,0 +1,19 @@
+.cardProducto {
+	background-color: #de5900b5;
+	border-radius: 10px;
+	width: 15rem;
+	padding: 1rem;
+	margin: 1rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imgProducto {
+	width: 150px;
+	object-fit: contain;
+}
+
+

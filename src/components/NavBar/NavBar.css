@@ -1,0 +1,26 @@
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: rgb(221, 85, 0);
+	padding-left: 100px;
+	padding-right: 100px;
+	height: 155px;
+	
+}
+
+li {
+	display: inline-block;
+	margin: 1.5rem;
+	cursor: pointer;
+}
+
+
+
+
+.menu {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 25px;
+	color: black;
+	
+}
